@@ -1,0 +1,9 @@
+<li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown"><{$block.current_theme}></a>
+    <ul class="dropdown-menu">
+        <{foreach item=theme from=$block.theme_select}>
+        <li><a class="dropdown-item" href="?theme_select=<{$theme.folder}>">
+            <img src="<{$theme.image}>"><br/><{$theme.name}></a></li>
+        <{/foreach}>
+    </ul>
+</li>
