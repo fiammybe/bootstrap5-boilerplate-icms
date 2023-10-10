@@ -1,0 +1,84 @@
+header,
+footer {
+
+}
+.nav-item {
+    font-size: large;
+}
+.nav-item a {
+
+}
+.navbar-nav .nav-link a {
+
+}
+
+.xo-canvas-column .nav-item a {
+
+}
+
+.nav-item a {
+
+}
+
+.navbar-nav .nav-link.active {
+
+    font-weight: bold;
+}
+
+.nav .nav-link.active {
+
+}
+
+.xo-block .nav-heading
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+.xo-canvas-column .nav-heading
+{
+    font-weight: bold;
+}
+.xo-block .card {
+    border-style: none;
+}
+
+.xo-block .card-header {
+
+    font-weight: bold;
+}
+.xo-block .card-body {
+
+}
+
+.xo-canvas-column .card-body
+{
+    text-align: left;
+}
+.xo-canvas-column .nav-item
+{
+
+}
+
+.xo-canvas-leftcolumn .nav-heading {
+    text-align: left;
+}
+
+.xo-canvas-rightcolumn .nav-heading {
+    text-align : right;
+}
+
+.xo-canvas-column li a {
+    padding-left: 15px;
+    text-decoration-line: none;
+}
+
+.xo-canvas-column li a.menuSub {
+    padding-left: 30px;
+}
+
+.xo-canvas-column li a.actlink
+{
+    font-weight: bold;
+}
+
